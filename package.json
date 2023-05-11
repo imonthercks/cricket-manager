@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com:imonthercks/cricket-manager.git",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "aws-cdk-lib": "^2.79.0"
+  }
 }
